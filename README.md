@@ -7,7 +7,7 @@
 
 
 
-#Introduction
+#介绍
 
 Bluebird is a fully featured [promise](#what-are-promises-and-why-should-i-use-them) library with focus on innovative features and performance
 
